@@ -100,13 +100,7 @@ Financial fraud and money laundering have become increasingly sophisticated with
 
 ---
 
-## 🚀 How to Run the Project
 
-### Run the Project
-
-```bash
-http://127.0.0.1:8000/ebook
-```
 
 
 ## 📈 Results & Insights
@@ -162,6 +156,7 @@ Feel free to:
 📧 Email:manjulakavya78@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/kavya-manjula-0296852b9/
+
 💻 GitHub:https://github.com/manjulakavya78
 ---
 
